@@ -23,7 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://readme-components.vercel.app/api?component=logo&logo=flutter" alt="flutter"/> </a> 
+ 
   <a href="https://cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus" alt="cpp"/> </a> 
   <a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://readme-components.vercel.app/api?component=logo&logo=python" alt="python"/> </a> 
   <a href="https://linux.org" target="_blank" rel="noreferrer"> <img src="https://readme-components.vercel.app/api?component=logo&logo=linux" alt="linux"/> </a> 
