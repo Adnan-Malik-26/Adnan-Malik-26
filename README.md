@@ -1,35 +1,28 @@
-<h1 align="center">Hi 👋, I'm Adnan Malik</h1>
-<h3 align="center">A Computer Science Student in India</h3>
-<p align="left">  - A dedicated student hailing from Model Institute of Engineering and Technology in Jammu, India.<br>
-  - 📚 My academic journey is powered by my love for coding, especially with Python and C. <br>- 💻 Currently, I'm diving headfirst into the world of Flutter development 🚀, eager to master its intricacies. <br>
-  - I'm a lifelong learner who thrives on embracing new challenges and exploring the ever-evolving field of software development. <br>
-  <h4>🌟 Let's code! 😊👨‍💻</h4> </p>
+# 👋 Hi, I'm Mohd Adnan Malik
 
+Welcome to my GitHub profile! I'm passionate about technology and constantly exploring the latest advancements in the open-source world.
 
+## 🚀 About Me
+- 🔧 **Tinkerer & Lifelong Learner:** I love exploring new technologies, tinkering with systems, and continuously learning to stay updated with the latest trends.
+- 🐧 **Linux Enthusiast:** A strong advocate of open-source technologies, I spend a lot of time exploring, tweaking, and contributing to Linux environments.
+- 🔗 **Blockchain Developer:** I build secure and decentralized applications on blockchain networks. Solidity and smart contract development are my forte.
+- 💻 **C++ Programmer:** I enjoy writing high-performance code with C++, solving complex problems, and optimizing algorithms.
 
+## 🔧 Technical Skills
+### Programming Languages
+- **C:** Systems programming and low-level optimizations.
+- **C++:** Object-oriented programming and efficient system designs.
+- **Python:** Scripting, data analysis, and automation.
+- **Solidity:** Developing smart contracts for blockchain applications.
+- **Markdown:** Crafting clean and structured documentation.
 
+### Other Interests
+- Contributing to open-source projects.
+- Problem-solving and writing efficient code.
 
-<h3 align="left">Connect with me:</h3>
+## 📫 How to Reach Me
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/mohd-adnan-malik-087152343/)
+- Email: [YourEmail@example.com](mailto:eddymalikadnan@gmail.com)
 
-<p align="left">
-<a href="mailto:eddymalikadnan@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/></a> 
-<a href="https://twitter.com/AdnanMalik5989" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
-<a href="https://leetcode.com/eddymalikadnan/" ><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> 
+Thanks for visiting my profile. Feel free to explore my repositories and reach out for collaborations!
 
-</p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
- 
-  <a href="https://cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus" alt="cpp"/> </a> 
-  <a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://readme-components.vercel.app/api?component=logo&logo=python" alt="python"/> </a> 
-  <a href="https://linux.org" target="_blank" rel="noreferrer"> <img src="https://readme-components.vercel.app/api?component=logo&logo=linux" alt="linux"/> </a> 
-  
-  
-
-</p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
