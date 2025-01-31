@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly exp
 
 ## 📫 How to Reach Me
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/mohd-adnan-malik-087152343/)
-- Email: [YourEmail@example.com](mailto:eddymalikadnan@gmail.com)
+- Email: [eddymalikadnan@gmail.com](mailto:eddymalikadnan@gmail.com)
 
 Thanks for visiting my profile. Feel free to explore my repositories and reach out for collaborations!
 
